@@ -6,7 +6,7 @@ services:
     ports:
       - 3002:3002
     environment:
-      # 二选一
+			# 二选一
       OPENAI_API_KEY: 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
 			# 二选一
       OPENAI_ACCESS_TOKEN: xxx
